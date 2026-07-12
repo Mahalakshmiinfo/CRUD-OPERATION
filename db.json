@@ -2,13 +2,13 @@
   "students": [
     {
       "id": 1,
-      "name": "raja",
+      "name": "maha",
       "course": "it"
     },
     {
       "id": 2,
-      "name": "sabari ",
-      "course": "aws"
+      "name": "supriya ",
+      "course": "cse"
     }
   ]
 }
